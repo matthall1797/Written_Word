@@ -9,6 +9,10 @@ The whole thing, 172 pages on reverse engineering the transcriptional regulatory
 ### The Transcriptional Regulatory Network of Spn
 Just a sample of the above.
 
+## A Two Pronged Approach to Differential Gene Expression
+Report Accompanying the DEG_CrossRef repo/analytical pipeline, showing results for Hepatocellular Carcinoma. 
+![Overview of DEG CrossRef Pipeline](figs/Fig1_HCC.jpg)
+
 ### Targeting Distinctly Dangerous Subpopulations in Cancer
 It seems today the most powerful insights will come from feeding ML models with millions of parameters datasets containing billions of data points. This is a proposal to generate a barcoded Patient-Derived Organoid (PDO) biobank which can generate single-cell leveled data including genotype, epigenotype, transcriptome, treatment and immunotherapy susceptibility profile and metastatic capacity. 
 ![Barcoded PDO Biobank Proposal](figs/BC_PDOs.jpeg)
